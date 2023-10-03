@@ -32,4 +32,5 @@ else
     }
 }
 
+Console.WriteLine("Закрой меня!");
 Console.ReadLine();
