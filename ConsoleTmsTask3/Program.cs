@@ -29,7 +29,7 @@ static bool Operations()
                 Console.WriteLine("Введите второе число:");
                 var number2 = CheckInput();
                 var result = number1 + number2;
-                Console.WriteLine("Результат:\n" + $"{number2} + {number1} = {result}");
+                Console.WriteLine("Результат:\n" + $"{number1} + {number2} = {result}");
                 break;
             }
         case "2":
@@ -39,7 +39,7 @@ static bool Operations()
                 Console.WriteLine("Введите второе число:");
                 var number2 = CheckInput();
                 var result = number1 - number2;
-                Console.WriteLine("Результат:\n" + $"{number2} - {number1} = {result}");
+                Console.WriteLine("Результат:\n" + $"{number1} - {number2} = {result}");
                 break;
             }
         case "3":
@@ -49,7 +49,7 @@ static bool Operations()
                 Console.WriteLine("Введите второе число:");
                 var number2 = CheckInput();
                 var result = number1 / number2;
-                Console.WriteLine("Результат:\n" + $"{number2} / {number1} = {result}");
+                Console.WriteLine("Результат:\n" + $"{number1}  /  {number2} = {result}");
                 break;
             }
         case "4":
@@ -59,7 +59,7 @@ static bool Operations()
                 Console.WriteLine("Введите второе число:");
                 var number2 = CheckInput();
                 var result = number1 * number2;
-                Console.WriteLine("Результат:\n" + $"{number2} * {number1} = {result}");
+                Console.WriteLine("Результат:\n" + $"{number1}  *  {number2} = {result}");
                 break;
             }
         case "5":
