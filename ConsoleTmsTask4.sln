@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTmsTask4", "ConsoleTmsTask4\ConsoleTmsTask4.csproj", "{F1C4DDA9-D900-477C-A51C-187330CFB35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C4DDA9-D900-477C-A51C-187330CFB35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C4DDA9-D900-477C-A51C-187330CFB35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C4DDA9-D900-477C-A51C-187330CFB35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C4DDA9-D900-477C-A51C-187330CFB35A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878715F3-8FA5-4F60-973D-2F4E0C1B8939}
+	EndGlobalSection
+EndGlobal
