@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTmsTask6_1", "ConsoleTmsTask6\ConsoleTmsTask6_1\ConsoleTmsTask6_1.csproj", "{DBE38AF9-738C-4E27-B2C2-65B40441FA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTmsTask6_2", "ConsoleTmsTask6\ConsoleTmsTask6_2\ConsoleTmsTask6_2.csproj", "{E7EBC076-B311-471F-A54F-36AA58631DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE38AF9-738C-4E27-B2C2-65B40441FA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE38AF9-738C-4E27-B2C2-65B40441FA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE38AF9-738C-4E27-B2C2-65B40441FA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE38AF9-738C-4E27-B2C2-65B40441FA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7EBC076-B311-471F-A54F-36AA58631DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EBC076-B311-471F-A54F-36AA58631DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EBC076-B311-471F-A54F-36AA58631DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EBC076-B311-471F-A54F-36AA58631DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94FBD8F0-4B58-451A-A81D-607E14444979}
+	EndGlobalSection
+EndGlobal
