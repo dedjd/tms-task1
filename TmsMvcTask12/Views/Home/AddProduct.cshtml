@@ -1,0 +1,22 @@
+﻿@model TmsMvc.Models.ProductModel
+
+<h2>Добавить продукт</h2>
+
+<form asp-action="AddProduct" method="post">
+    <div class="form-group">
+        <label asp-for="Name">Имя продукта:</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price">Цена:</label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Quantity">Количество:</label>
+        <input asp-for="Quantity" class="form-control" />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Добавить</button>
+</form>
