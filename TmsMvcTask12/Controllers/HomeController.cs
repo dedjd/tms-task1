@@ -18,11 +18,6 @@ namespace TmsMvc.Controllers
             _service = service;
         }
 
-        public IActionResult Index()
-        {
-            return View("Index");
-        }
-
         public IActionResult ListProducts()
         {
             ProductListModel productList = _service.GetProducts();
